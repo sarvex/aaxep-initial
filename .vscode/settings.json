@@ -1,0 +1,28 @@
+{
+  "java.completion.enabled": false,
+  "java.debug.settings.enableRunDebugCodeLens": false,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#32c859",
+    "activityBar.activeBorder": "#6f4cd2",
+    "activityBar.background": "#32c859",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#6f4cd2",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "editorGroup.border": "#32c859",
+    "panel.border": "#32c859",
+    "sideBar.border": "#32c859",
+    "statusBar.background": "#289f47",
+    "statusBar.border": "#289f47",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#32c859",
+    "tab.activeBorder": "#32c859",
+    "titleBar.activeBackground": "#289f47",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.border": "#289f47",
+    "titleBar.inactiveBackground": "#289f4799",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#289f47",
+  "java.test.editor.enableShortcuts": false
+}
