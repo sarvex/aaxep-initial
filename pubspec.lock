@@ -353,10 +353,10 @@ packages:
     dependency: "direct main"
     description:
       name: forme
-      sha256: b20eb1e4c60fcb40f9ec9c3bcbf40011c6552f039dc021968e3237f82cf19e58
+      sha256: "95acf35fffbfdbb2ff2f940cee6cd90496b07e1143b5c94f347cd638c3a8750b"
       url: "https://pub.dev"
     source: hosted
-    version: "2.5.3+1"
+    version: "4.3.1+1"
   geolocator:
     dependency: "direct main"
     description:
@@ -956,4 +956,4 @@ packages:
     version: "3.1.1"
 sdks:
   dart: ">=2.19.0 <3.0.0"
-  flutter: ">=3.3.0"
+  flutter: ">=3.7.0"
