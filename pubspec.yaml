@@ -53,7 +53,7 @@ dependencies:
   google_fonts: ^4.0.0
   internationalization: ^3.1.0
   intro_slider: ^3.0.2
-  local_auth: ^1.1.7
+  local_auth: ^2.0.0
   package_info: ^2.0.2
   path_provider: ^2.0.3
   qr_flutter: ^4.0.0
