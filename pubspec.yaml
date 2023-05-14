@@ -44,7 +44,7 @@ dependencies:
   fl_chart: ^0.62.0
   flutter_bloc: ^8.0.0
   flutter_blurhash: ^0.7.0
-  flutter_native_splash: ^1.2.3
+  flutter_native_splash: ^2.0.0
   flutter_typeahead: ^4.0.0
   font_awesome_flutter: ^10.0.0
   forme: ^4.0.0
