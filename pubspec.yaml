@@ -43,7 +43,7 @@ dependencies:
   easy_localization: ^3.0.0
   fl_chart: ^0.64.0
   flutter_bloc: ^8.0.0
-  flutter_blurhash: ^0.7.0
+  flutter_blurhash: ^0.8.0
   flutter_native_splash: ^2.0.0
   flutter_typeahead: ^4.0.0
   font_awesome_flutter: ^10.0.0
